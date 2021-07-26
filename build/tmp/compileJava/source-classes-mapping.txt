@@ -1,0 +1,2 @@
+com/amela/controllers/TranslateController.java
+ com.amela.controllers.TranslateController
